@@ -24,12 +24,12 @@
 
 ## Tecnologías
 
-- **Django** (versión X.X)
-- **Python** (versión X.X)
+- **Django** 
+- **Python** 
 - **Tailwind CSS**
 - **Crispy Forms**
-- **SQLite** (base de datos predeterminada)
-- **Docker** (opcional)
+- **SQLite** 
+- **Docker** 
 
 ## Instalación
 
@@ -51,7 +51,7 @@ pip install virtualenv
 Crear el entorno virtual:
 
 ```bash
-virtualenv ~/.envs/coffee_shop
+python3 -m venv coffee_shop
 ```
 
 Activar el entorno virtual:
